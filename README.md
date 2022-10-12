@@ -2,7 +2,7 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-This repo contains various sorting algorithms write in python.
+This repo contains various sorting algorithms written in python.
 
 ## Algorithms
 - insertion sort
